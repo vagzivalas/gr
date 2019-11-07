@@ -281,3 +281,5 @@ defaults:
       layout: single
       header: no
       show_meta: false
+
+theme: jekyll-theme-minimal
